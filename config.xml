@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
+<gap:platform name="ios" />
+<gap:platform name="android" />
+<gap:platform name="winphone" />
 
 <!-- iPhone 6 / 6+ -->
 <icon src="icon-60@3x.png" gap:platform="ios" width="180" height="180" />
