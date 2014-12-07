@@ -79,7 +79,7 @@
   <gap:splash src="portrait-xxhdpi.png" gap:platform="android" gap:qualifier="port-xxhdpi" />
   <gap:splash src="landscape-xxhdpi.png" gap:platform="android" gap:qualifier="land-xxhdpi" />
 
-  <gap:splash src="splash/winphone/splash.jpg" gap:platform="winphone" />
+  <gap:splash src="splash/splash.jpg" gap:platform="winphone" />
   
   
 </widget>
